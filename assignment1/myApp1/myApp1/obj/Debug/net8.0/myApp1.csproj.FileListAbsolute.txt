@@ -1,0 +1,14 @@
+D:\Files\homework\assignment1\myApp1\myApp1\bin\Debug\net8.0\myApp1.exe
+D:\Files\homework\assignment1\myApp1\myApp1\bin\Debug\net8.0\myApp1.deps.json
+D:\Files\homework\assignment1\myApp1\myApp1\bin\Debug\net8.0\myApp1.runtimeconfig.json
+D:\Files\homework\assignment1\myApp1\myApp1\bin\Debug\net8.0\myApp1.dll
+D:\Files\homework\assignment1\myApp1\myApp1\bin\Debug\net8.0\myApp1.pdb
+D:\Files\homework\assignment1\myApp1\myApp1\obj\Debug\net8.0\myApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\homework\assignment1\myApp1\myApp1\obj\Debug\net8.0\myApp1.AssemblyInfoInputs.cache
+D:\Files\homework\assignment1\myApp1\myApp1\obj\Debug\net8.0\myApp1.AssemblyInfo.cs
+D:\Files\homework\assignment1\myApp1\myApp1\obj\Debug\net8.0\myApp1.csproj.CoreCompileInputs.cache
+D:\Files\homework\assignment1\myApp1\myApp1\obj\Debug\net8.0\myApp1.dll
+D:\Files\homework\assignment1\myApp1\myApp1\obj\Debug\net8.0\refint\myApp1.dll
+D:\Files\homework\assignment1\myApp1\myApp1\obj\Debug\net8.0\myApp1.pdb
+D:\Files\homework\assignment1\myApp1\myApp1\obj\Debug\net8.0\myApp1.genruntimeconfig.cache
+D:\Files\homework\assignment1\myApp1\myApp1\obj\Debug\net8.0\ref\myApp1.dll

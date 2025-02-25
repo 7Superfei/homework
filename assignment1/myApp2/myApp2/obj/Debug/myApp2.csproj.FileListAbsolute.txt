@@ -1,0 +1,10 @@
+D:\Files\homework\assignment1\myApp2\myApp2\obj\Debug\myApp2.csproj.AssemblyReference.cache
+D:\Files\homework\assignment1\myApp2\myApp2\obj\Debug\myApp2.Form1.resources
+D:\Files\homework\assignment1\myApp2\myApp2\obj\Debug\myApp2.Properties.Resources.resources
+D:\Files\homework\assignment1\myApp2\myApp2\obj\Debug\myApp2.csproj.GenerateResource.cache
+D:\Files\homework\assignment1\myApp2\myApp2\obj\Debug\myApp2.csproj.CoreCompileInputs.cache
+D:\Files\homework\assignment1\myApp2\myApp2\bin\Debug\myApp2.exe.config
+D:\Files\homework\assignment1\myApp2\myApp2\bin\Debug\myApp2.exe
+D:\Files\homework\assignment1\myApp2\myApp2\bin\Debug\myApp2.pdb
+D:\Files\homework\assignment1\myApp2\myApp2\obj\Debug\myApp2.exe
+D:\Files\homework\assignment1\myApp2\myApp2\obj\Debug\myApp2.pdb
