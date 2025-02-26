@@ -1,0 +1,14 @@
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\bin\Debug\net8.0\myApp3.exe
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\bin\Debug\net8.0\myApp3.deps.json
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\bin\Debug\net8.0\myApp3.runtimeconfig.json
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\bin\Debug\net8.0\myApp3.dll
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\bin\Debug\net8.0\myApp3.pdb
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\obj\Debug\net8.0\myApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\obj\Debug\net8.0\myApp3.AssemblyInfoInputs.cache
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\obj\Debug\net8.0\myApp3.AssemblyInfo.cs
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\obj\Debug\net8.0\myApp3.csproj.CoreCompileInputs.cache
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\obj\Debug\net8.0\myApp3.dll
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\obj\Debug\net8.0\refint\myApp3.dll
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\obj\Debug\net8.0\myApp3.pdb
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\obj\Debug\net8.0\myApp3.genruntimeconfig.cache
+D:\Files\homework\新建文件夹\assignment2\myApp3\myApp3\obj\Debug\net8.0\ref\myApp3.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\homework\\\u65B0\u5EFA\u6587\u4EF6\u5939\\assignment2\\myApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B906DB7-4938-47A7-8B31-BB1E5D3F4F68}|myApp1\\myApp1.csproj|d:\\files\\homework\\\u65B0\u5EFA\u6587\u4EF6\u5939\\assignment2\\myapp1\\myapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B906DB7-4938-47A7-8B31-BB1E5D3F4F68}|myApp1\\myApp1.csproj|solutionrelative:myapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Files\\homework\\\u65B0\u5EFA\u6587\u4EF6\u5939\\assignment2\\myApp1\\myApp1\\Program.cs",
+              "RelativeDocumentMoniker": "myApp1\\Program.cs",
+              "ToolTip": "D:\\Files\\homework\\\u65B0\u5EFA\u6587\u4EF6\u5939\\assignment2\\myApp1\\myApp1\\Program.cs",
+              "RelativeToolTip": "myApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:44:27.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
